@@ -7,5 +7,5 @@ const sub = (numeroUm - numeroDois)
 const div = (numeroUm / numeroDois)
 const multi = (numeroUm * numeroDois)
 
-console.log(soma, sub, div, multi)
+console.log(`${soma}, ${sub}, ${div}, ${multi}`)
 
