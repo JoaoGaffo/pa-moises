@@ -7,5 +7,8 @@ const sub = (numeroUm - numeroDois)
 const div = (numeroUm / numeroDois)
 const multi = (numeroUm * numeroDois)
 
-console.log(`${soma}, ${sub}, ${div}, ${multi}`)
+console.log(`soma:${soma}, subitração:${sub}, divisão:${div}, multiplicação:${multi}`)
 
+//Para receber e devolver informacoes no terminal:
+
+const readline = required('readline')
